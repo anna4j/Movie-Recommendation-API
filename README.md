@@ -1,1 +1,1 @@
-# Shopper-s-Spot
+# Shoppers-Spot
