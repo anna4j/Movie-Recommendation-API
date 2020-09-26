@@ -1,1 +1,1 @@
-# Shoppers-Spot
+# Content-based Movie Recommendation System
